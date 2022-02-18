@@ -1,3 +1,5 @@
+/*  let us create a simple linked list with 3 nodes  */
+
 class LinkedList
 {
   Node head;
