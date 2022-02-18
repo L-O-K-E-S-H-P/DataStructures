@@ -21,4 +21,9 @@ if __name__=='__main__':
   
   llist.printList()
   
+  ''' output
+  1
+  2
+  3
+  '''
     
