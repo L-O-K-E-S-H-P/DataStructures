@@ -21,7 +21,7 @@ class LinkedList:
     new_node.next=prev_node.next
     prev_node=new_node
     
-  #Appends a new node at the end
+  #Append a new node at the end
   def append(self,new_data):
     new_node=Node(new_data)
     new_node.next=null
